@@ -2,6 +2,8 @@
 
 software parts:
 
+- https://github.com/sb-child/keyboard-software-core
+
 - https://github.com/sb-child/keyboard-software-scanner
 
 ## v1 (rev 3)
